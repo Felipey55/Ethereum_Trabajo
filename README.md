@@ -9,7 +9,7 @@ Este es un contrato inteligente desarrollado en Solidity para un sistema de vota
 El contrato ha sido desplegado en la red de pruebas Sepolia.
 
 - **Dirección del Contrato en Sepolia**: 0xC685Cf67816F6752DdAe83849ABa8A9f779C20dD
-  Puedes ver la transacción de creación del contrato [aquí]([https://sepolia.etherscan.io/tx/0x60806040](https://sepolia.etherscan.io/address/0xC685Cf67816F6752DdAe83849ABa8A9f779C20dD)).
+- Puedes ver la transacción de creación del contrato [aquí](https://sepolia.etherscan.io/address/0xC685Cf67816F6752DdAe83849ABa8A9f779C20dD).
 
 ## Nota importante
 
